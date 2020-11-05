@@ -1,4 +1,8 @@
 ![HEART OUT](https://github-readme-stats.vercel.app/api?username=netesy&count_private=true&show_icons=true)
+
+  <a href="https://github.com/netesy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netesy&count_private=true" />
+</a>
 <!--
 **netesy/netesy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
