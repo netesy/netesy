@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ## 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=netesy&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=netesy&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=netesy&hide=cpp,css,shell,makefile,html,c%2B%2B,c,tex,javascript,emacs+lisp,clojure&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=netesy&hide=qmake,css,shell,makefile,html,c,tex,javascript,emacs+lisp,clojure&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=netesy&repo=gringotts)](https://github.com/netesy/gringotts)
 
 ## 🏆 Trophies
