@@ -1,11 +1,3 @@
-<a href="https://github.com/netesy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=netesy&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/netesy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netesy&count_private=true&layout=compact" />
-</a>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=netesy&repo=gringotts)](https://github.com/netesy/gringotts)
 <!--
 **netesy/netesy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,9 +23,9 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <ul>
-        <li> 🔭 I’m currently hacking on <a href="https://takadah.com">Takadahcom</a> (<a href="https://github.com/netesy/takadah">repo</a>)
+        <li> 🔭 I’m currently hacking on <a href="https://takadah.com">Takadah.com</a> (<a href="https://github.com/netesy/takadah">repo</a>)
 <!--         <li> 🌱 I’m currently learning <b>HuggingFace diffusers</b> -->
-        <li> 💬 Ask me about <i>python, bert, haskell, julia, motorcycles, dogs and cooking</i>
+        <li> 💬 Ask me about <i>c++, python, php, dart, entrepreneurship, fintech, music, books and swimming</i>
         <li> 📫 How to reach me <a href="mailto:netesy@takadah.com">netesy@takadah.com</a>
 <!--         <li> 📄 Know about my experiences <a href="https://diwank.name/resume.pdf">in my resume</a>
         <li> 🤗 You can find my huggingface models on <a  href="https://huggingface.co/diwank"> my HF hub profile </a> -->
@@ -53,6 +45,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=netesy&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=netesy&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=netesy&hide=cpp,css,shell,makefile,html,c%2B%2B,c,tex,javascript,emacs+lisp,clojure&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=netesy&repo=gringotts)](https://github.com/netesy/gringotts)
 
 ## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=netesy&no-frame=true&margin-w=4)
