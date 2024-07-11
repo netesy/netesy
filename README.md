@@ -27,10 +27,7 @@ Here are some ideas to get you started:
         <li> 🌱 I’m currently learning <b>Design Pyschology</b>
         <li> 💬 Ask me about <i>c++, python, php, dart, entrepreneurship, fintech, music, books and swimming</i>
         <li> 📫 How to reach me <a href="mailto:netesy@takadah.com">netesy@takadah.com</a>
-        <li> 😄 Pronouns: <a href="https://pronoun.is/he">pronoun.is/he</a>
         <li> ⚡ Fun fact: <a href="fanfiction.net">I enjoy reading fanfiction & wuxia</a>
-<!--         <li> 📄 Know about my experiences <a href="https://diwank.name/resume.pdf">in my resume</a>
-        <li> 🤗 You can find my huggingface models on <a  href="https://huggingface.co/diwank"> my HF hub profile </a> -->
       </ul>
     </td>
     <td>
@@ -51,4 +48,6 @@ Here are some ideas to get you started:
 
 ## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=netesy&no-frame=true&margin-w=4)
+
+![Metrics](/github-metrics.svg)
 
